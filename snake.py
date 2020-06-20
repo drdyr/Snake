@@ -137,3 +137,5 @@ while True:
     pygame.display.flip()
 
     clock.tick(8)
+
+#test
